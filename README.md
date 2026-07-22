@@ -4,6 +4,18 @@ Mobile app for roadside assistance services with two user roles: clients and ser
 
 The app allows a client to choose a service, find available nearby masters, and contact or order help. Service providers can manage their availability, services, location and payment status.
 
+
+## Visual preview
+
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/9c816b243670127.69861acb78232.png" alt="RoadHelp app overview" width="100%">
+</p>
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/2cf509243670127.69861acb77c65.png" alt="RoadHelp app screens" width="75%">
+</p>
+
+[View the complete visual case study on Behance](https://www.behance.net/gallery/243670127/Road-Assistance)
+
 ---
 
 ## My role
